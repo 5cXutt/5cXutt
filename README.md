@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="<img src="https://raw.githubusercontent.com/5cXutt/5cXutt/refs/heads/main/img/cplusplus-color.svg" alt="My Skills" width="22" height="48" />
+<img src="<img src="https://raw.githubusercontent.com/5cXutt/5cXutt/refs/heads/main/img/cplusplus-color.svg" alt="My Skills" width="44" height="40" />
 <br clear="left"/>
