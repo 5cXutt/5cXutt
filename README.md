@@ -1,5 +1,3 @@
-### Who I Am
-
 👨‍💻 **In my spare time, create stupid programs🤪**
 
 💡 **Lots of imagination, creative and visionary**
@@ -15,18 +13,6 @@
 😡 **I hate a skidlle kid**
 
 ⭐ **Bro join to my discord.gg/fFH5Va6wnm**
-
-### Goals
-
-🎓 **Certifications to achieve:**
-- **OSCP(OSED)**
-- **OSCP(OSEE)**
-- **OSCP(OSEP)**
-
-💼 **I would like to work with:**
-- **Amazon**
-- **Microsoft**
-- **Google**
 
 ### Used Distro and tools
 
