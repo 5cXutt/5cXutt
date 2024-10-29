@@ -1,3 +1,4 @@
+<!-- 
 👨‍💻 **In my spare time, create stupid programs🤪**
 
 💡 **Lots of imagination, creative and visionary**
@@ -34,3 +35,7 @@
 #### And other (Assembly, ecc)
 
 <br clear="left"/>
+
+--> 
+
+Work
