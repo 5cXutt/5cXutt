@@ -1,19 +1,50 @@
-## Hi there 👋
+### Who I Am
 
-<!--
-**5cXutt/5cXutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **In my spare time, create stupid programs🤪**
 
-Here are some ideas to get you started:
+💡 **Lots of imagination, creative and visionary**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Eager to learn a lot, passionate and determined**
 
-<img src="https://raw.githubusercontent.com/5cXutt/5cXutt/refs/heads/main/img/cplusplus-color.svg" alt="My Skills" width="44" height="30" />
+🎯 **Focus: 17 years old, dynamic and energetic**
+
+🌍 **I live in Italy**
+
+🎮 **In my free time, I enjoy playing with my friends**
+
+😡 **I hate a skidlle kid**
+
+⭐ **Bro join to my discord.gg/fFH5Va6wnm**
+
+### Goals
+
+🎓 **Certifications to achieve:**
+- **OSCP(OSED)**
+- **OSCP(OSEE)**
+- **OSCP(OSEP)**
+
+💼 **I would like to work with:**
+- **Amazon**
+- **Microsoft**
+- **Google**
+
+### Used Distro and tools
+
+#### Windows
+![My Skills](https://skillicons.dev/icons?i=windows,powershell,vscode,visualstudio,dotnet)
+<br clear="left"/>
+
+#### Linux
+![My Skills](https://skillicons.dev/icons?i=linux,arch,kali,bash,neovim)
+<br clear="left"/>
+
+
+### Languages ​​I know 
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,mongodb,html,tailwind,materialui,js,ts,react,nextjs,prisma)
+<br clear="left"/>
+
+### Languages ​​to learn
+![My Skills](https://skillicons.dev/icons?i=java,ruby,swift,dart,php,cs) 
+#### And other (Assembly, ecc)
+
 <br clear="left"/>
