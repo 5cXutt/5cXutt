@@ -12,7 +12,7 @@
 
 😡 **I hate a skidlle kid**
 
-⭐ **Bro join to my discord.gg/fFH5Va6wnm**
+⭐ **Bro join to my https://discord.gg/4UZ63ts28j**
 
 ### Used Distro and tools
 
