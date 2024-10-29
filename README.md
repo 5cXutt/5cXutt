@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="<img src="[https://raw.githubusercontent.com/5cXutt/5cXutt/refs/heads/main/dotnet.svg](https://raw.githubusercontent.com/5cXutt/5cXutt/refs/heads/main/img/cplusplus-color.svg
+)" alt="My Skills" width="48" height="48" />
+<br clear="left"/>
